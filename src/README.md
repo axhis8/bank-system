@@ -1,4 +1,4 @@
-# myBank
+# bank-system
 ## About this Project
 
 This is my first Java project. It feels really draining but rewarding accomplishing it & I'm more than excited to continue!
