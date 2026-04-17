@@ -78,7 +78,7 @@ public class Bank {
             if (sender.withdraw(amount)) {
                 receiver.deposit(amount);
                 return true;
-            };
+            }
         }
         return false;
     }

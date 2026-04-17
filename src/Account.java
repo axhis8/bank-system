@@ -28,10 +28,6 @@ public class Account {
         return balance;
     }
 
-    public void setBalance(double balance) {
-        this.balance = balance;
-    }
-
     @Override
     public String toString() {
         return "\nName: %s\nNumber: %s\nBalance: %s€\nPIN: %s\n".formatted(holder, accountNumber, balance, pin);
